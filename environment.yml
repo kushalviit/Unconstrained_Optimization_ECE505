@@ -1,0 +1,11 @@
+name: ece505p1
+channels:
+  - https://conda.anaconda.org/menpo
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - jupyter
+  - scipy
+
