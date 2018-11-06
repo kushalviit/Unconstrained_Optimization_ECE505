@@ -5,7 +5,7 @@ System: Ubuntu16.04/Linux
 Install Anaconda
 
 Step:1
-git clone 
+git clone this project
 
 step:2
 run - conda env create -f environment.yml
